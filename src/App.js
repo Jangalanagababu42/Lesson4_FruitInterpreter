@@ -60,7 +60,10 @@ function App() {
 
       <div className="footer">
         <h1>About Fruit Interpretor</h1>
-        <p>Fruit Interpretor is a place to search emojis meaning.</p>
+        <p>
+          Fruit Interpretor is a place to search emojis meaning.
+          <span>❤️❤️created by Nagababu❤️❤️</span>
+        </p>
       </div>
     </div>
   );
